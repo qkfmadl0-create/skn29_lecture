@@ -1,0 +1,9 @@
+.env
+run_experiment*
+setting*
+자연어
+자연어딥러닝/CNN/cc.ko.300.vec
+chroma.sqlite3
+.gitignore
+*.bin
+.bin
